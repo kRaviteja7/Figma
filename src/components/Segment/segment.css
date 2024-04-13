@@ -1,0 +1,21 @@
+.seg{
+    margin: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.iim{
+    margin: 20px;
+}
+
+.s{
+    margin: 80px;
+    padding-left: 30px;
+}
+
+
+.star{
+    width: 100px;
+    height: 60px;
+    margin-bottom: 10px;
+}

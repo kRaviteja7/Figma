@@ -1,0 +1,16 @@
+.tt{
+    text-align: center;
+    height: 100px;
+    margin-top: 100px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 80px;
+}
+.tf{
+    margin-left: 400px;
+    width: 500px;
+}
+
+.ft{
+    color: blue;
+}

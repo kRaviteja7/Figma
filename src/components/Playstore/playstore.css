@@ -1,0 +1,23 @@
+.play{
+    margin-top: 100px;
+    margin-left: 80px;
+    margin-right: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.h{
+    color: blue;
+}
+button{
+    width: 120px;
+    margin-top: 20px;
+    border-radius: 50px;
+    margin-left: 15px;
+    font-size: 16px;
+}
+.p{
+    background-color: black;
+    color: white;
+}

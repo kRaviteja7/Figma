@@ -1,0 +1,24 @@
+.im{
+    width: 700px;
+    height: 300px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 60px;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 10px;
+    box-shadow: 0 5px 5px 5px rgba(0, 0, 0, 0.2);
+    background-image: url('https://t3.ftcdn.net/jpg/06/03/58/90/360_F_603589030_Xkjmk7GNPJ81aGxKVg4mZRRI0NCirvIu.jpg');
+    color: white;
+}
+.g{
+    margin-left: 300px;
+   }
+
+.m{
+    margin-top: 30px;
+    background-color: gold;
+    margin-left: 300px;
+}

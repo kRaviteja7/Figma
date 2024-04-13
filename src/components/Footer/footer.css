@@ -1,0 +1,24 @@
+.phlogo{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 20px;
+}
+.foot{
+    width: 25%;
+}
+
+.borem{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    color: white;
+    border: 0 solid;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
